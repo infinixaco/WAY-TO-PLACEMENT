@@ -1,0 +1,57 @@
+Important Questions
+
+What is Soft Computing? Explain it is different from hard computing, and its application Or  Discuss problem solving techniques? 
+Discuss different techniques used in Soft Computing, its applications?
+ Difference between BNN and ANN? 
+Explain Biological Neural network in terms of Axom, Synapse, dendrites, Synaptic Gap?
+What is Percetron Model, and explain activation function, NET, Target output, Actual output, Error?
+ Explain Delta Rule in brief?
+Explain McCulloch–Pitts Neuron in brief?
+Define and explain the meaning of term “Artificial Intelligence”?
+Differentiate AI problems Vs Conventional problems?
+Explain Production System its applications and types?
+Explain Depth First Search, Best First Search, Breadth First Search?
+Explain Hill Climbing Procedure and its applications?
+Explain A* and AO* algorithm?
+What are the important issues in knowledge representation?
+Explain Linear Seprability using an example? Or Is XOR Gate Linear Separable?
+Explain Hebb Learning in brief?
+Explain Learning in Neural Network? Or Explain Supervised Learning, Unsupervised Learning, Reinforcement Learning?
+Explain ADALINE and MADALINE Network?
+Explain Gradient Descent method?
+Explain Backpropagation Training Algorithm in brief, and discuss applications of it?
+Explain Radial Basis Function Network (RBFN) in brief?
+Discuss Associative Memory in brief?
+Discuss Unsupervised Learning Networks? Short note on KSOM, CPN, ART?
+What is Competitive Learning?
+ Differentiate between ART1 and ART2?
+Discuss Boltzmann Machine in brief?
+What are Applications of Neural network?
+Explain Feature map? Discuss Kohonen Self Organization Map(KSOM) in brief?
+Explain Counter Propagation in Brief? Explain full counter and feed counter propagation network?
+Explain Adaptive Resonance Theory (ART) , and also explain ART1 and ART2?
+Explain Fuzzy Logic, fuzzy set?
+Explain Fuzzy Set Vs Crisp Set?
+Explain Membership function, fuzzy set, fuzzy if-then Rules?
+ Explain Fuzzy Inference System (FIS)?
+ Explain Mamdani model and Takagi model?
+Explain neuro fuzzy hybrid, neuro genetic hybrid and fuzzy genetic hybrid system?
+Explain Genetic Algorithm in term of individual, gene, fitness, population, encoding, selection, crossover, mutation?
+Explain different type of cross over operation?
+Explain Generalized Modus Ponen and Generalized Modus Tonen?
+ Explain Modus ponen, modus tonen, if-then rule?
+ Explain Max-min Composition and Max-product composition?
+Explain Union, Intersection, complement operations of fuzzy set?
+ Explain Classical set Vs Fuzzy Set?
+Comparison between Mamdani and Takagi Model?
+ How Genetic Algorithm is different from traditional algorithms?
+ Explain Genetic algorithm in terms of Reproduction, Selection, Evaluation and Replacement?
+Write short notes on Roulette wheel Selection, Random selection, Tournament Selection, Boltzman Selection?
+Discuss Crossover operation in GA and its types?
+Discuss Mamdani Model for FIS?
+Discuss Takagi Model for FIS?
+ Discuss different Defuzzification methods?
+ Difference between fuzzification and defuzzfication?
+Explain following terms Core, Boundary, Support in term of Fuzzy Logic?
+ Explain Fuzzy Expert System?
+Discuss different encoding techniques used for GA?
